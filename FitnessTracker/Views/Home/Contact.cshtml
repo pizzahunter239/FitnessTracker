@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="p-4 mb-4 bg-success text-white text-center rounded">
+            <h1 class="display-4"><i class="fas fa-envelope"></i> Get In Touch</h1>
+            <p class="lead">We'd love to hear from you</p>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4 mb-5">
+    <div class="col-lg-8">
+        <div class="card shadow border-0">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0"><i class="fas fa-paper-plane"></i> Send Us a Message</h4>
+            </div>
+            <div class="card-body">
+                <form>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label for="firstName" class="form-label">First Name *</label>
+                            <input type="text" class="form-control" id="firstName" required>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="lastName" class="form-label">Last Name *</label>
+                            <input type="text" class="form-control" id="lastName" required>
+                        </div>
+                        <div class="col-12">
+                            <label for="email" class="form-label">Email Address *</label>
+                            <input type="email" class="form-control" id="email" required>
+                        </div>
+                        <div class="col-12">
+                            <label for="subject" class="form-label">Subject</label>
+                            <select class="form-select" id="subject">
+                                <option selected>Choose a topic...</option>
+                                <option value="support">Technical Support</option>
+                                <option value="feedback">Feedback & Suggestions</option>
+                                <option value="partnership">Partnership Inquiry</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="col-12">
+                            <label for="message" class="form-label">Message *</label>
+                            <textarea class="form-control" id="message" rows="5"
+                                      placeholder="Tell us how we can help you..." required></textarea>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="fas fa-paper-plane"></i> Send Message
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="card shadow border-0 h-100">
+            <div class="card-header bg-info text-white">
+                <h4 class="mb-0"><i class="fas fa-info-circle"></i> Contact Information</h4>
+            </div>
+            <div class="card-body">
+                <div class="mb-4">
+                    <h6 class="text-primary"><i class="fas fa-map-marker-alt"></i> Office Address</h6>
+                    <address class="text-muted mb-0">
+                        123 Fitness Road<br>
+                        Health Valley, CA 12345<br>
+                        United States
+                    </address>
+                </div>
+
+                <div class="mb-4">
+                    <h6 class="text-primary"><i class="fas fa-phone"></i> Phone</h6>
+                    <p class="text-muted mb-0">(123) 456-FITLIFE</p>
+                </div>
+
+                <div class="mb-4">
+                    <h6 class="text-primary"><i class="fas fa-envelope"></i> Email</h6>
+                    <p class="text-muted mb-0">support@fitlifetracker.com</p>
+                </div>
+
+                <div class="mb-4">
+                    <h6 class="text-primary"><i class="fas fa-clock"></i> Support Hours</h6>
+                    <p class="text-muted mb-1">Monday - Friday: 8:00 AM - 8:00 PM PST</p>
+                    <p class="text-muted mb-1">Saturday: 9:00 AM - 5:00 PM PST</p>
+                    <p class="text-muted mb-0">Sunday: Closed</p>
+                </div>
+
+                <div>
+                    <h6 class="text-primary"><i class="fas fa-share-alt"></i> Follow Us</h6>
+                    <div class="d-flex gap-2">
+                        <a href="#" class="btn btn-outline-primary btn-sm">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-dark btn-sm">
+                            <i class="fa-brands fa-x-twitter"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-danger btn-sm">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-primary btn-sm">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card bg-light border-0">
+            <div class="card-body text-center p-5">
+                <h3 class="text-dark mb-4">Frequently Asked Questions</h3>
+                <div class="row g-4">
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-question-circle fa-3x text-primary mb-3"></i>
+                            <h5>Getting Started</h5>
+                            <p class="text-muted small">
+                                New to FitLife? Check out our getting started guide and video tutorials.
+                            </p>
+                            <a href="#" class="btn btn-outline-primary btn-sm">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-cog fa-3x text-success mb-3"></i>
+                            <h5>Account Settings</h5>
+                            <p class="text-muted small">
+                                Need help with your account? Find answers to common settings questions.
+                            </p>
+                            <a href="#" class="btn btn-outline-success btn-sm">View FAQ</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-mobile-alt fa-3x text-info mb-3"></i>
+                            <h5>Mobile App</h5>
+                            <p class="text-muted small">
+                                Download our mobile app for iOS and Android to track on the go.
+                            </p>
+                            <a href="#" class="btn btn-outline-info btn-sm">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
