@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\",
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\models\\fitnesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\fitnesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\wwwroot\\css\\fitlife.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 5\\fitnesstracker\\fitnesstracker\\wwwroot\\css\\fitlife.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\wwwroot\\css\\fitlife.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit218\\week 4\\fitnesstracker\\fitnesstracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56A25D36-3DF5-4E31-A992-5BB0819E7EF0}|FitnessTracker\\FitnessTracker.csproj|solutionrelative:fitnesstracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +62,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250925151822_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs",
+              "RelativeToolTip": "FitnessTracker\\Migrations\\20250925151822_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:18:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Program.cs",
+              "RelativeToolTip": "FitnessTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:14:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\appsettings.json",
+              "RelativeToolTip": "FitnessTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T15:13:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FitnessTracker\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FitnessTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAArwEkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T18:00:47.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "FitnessTracker\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:22:12.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitnessContext.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Models\\FitnessContext.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\FitnessContext.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Models\\FitnessContext.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\FitnessContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:13:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "FitnessTracker\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Models\\Member.cs",
+              "RelativeToolTip": "FitnessTracker\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:11:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FitnessTracker\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FitnessTracker\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwv1gAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T18:00:26.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FitnessTracker\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FitnessTracker\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "fitlife.css",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\wwwroot\\css\\fitlife.css",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\wwwroot\\css\\fitlife.css",
               "RelativeDocumentMoniker": "FitnessTracker\\wwwroot\\css\\fitlife.css",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\wwwroot\\css\\fitlife.css",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\wwwroot\\css\\fitlife.css",
               "RelativeToolTip": "FitnessTracker\\wwwroot\\css\\fitlife.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -94,39 +196,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "FitnessTracker\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "FitnessTracker\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGgAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwGgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T17:58:13.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "FitnessTracker\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "FitnessTracker\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwF4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T17:58:02.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "FitnessTracker\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 4\\FitnessTracker\\FitnessTracker\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT218\\Week 5\\FitnessTracker\\FitnessTracker\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "FitnessTracker\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-17T18:01:46.613Z",
               "EditorCaption": ""
